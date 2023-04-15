@@ -11,7 +11,6 @@
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "diagramType": "STRIDE",
         "id": 0,
-        "$$hashKey": "object:20",
         "diagramJson": {
           "cells": [
             {
@@ -421,62 +420,6 @@
               }
             },
             {
-              "type": "tm.Boundary",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
-              "smooth": true,
-              "source": {
-                "x": 576,
-                "y": 460
-              },
-              "target": {
-                "x": 323,
-                "y": 453
-              },
-              "vertices": [
-                {
-                  "x": 581,
-                  "y": 419
-                },
-                {
-                  "x": 573,
-                  "y": 359
-                },
-                {
-                  "x": 485,
-                  "y": 344
-                },
-                {
-                  "x": 339,
-                  "y": 353
-                },
-                {
-                  "x": 322,
-                  "y": 445
-                }
-              ],
-              "id": "05f01b42-c694-4f9d-91c7-d84363aed478",
-              "z": 13,
-              "labels": [
-                {
-                  "position": {
-                    "distance": 0.056606763128908326,
-                    "offset": -21.181677356009857
-                  },
-                  "attrs": {
-                    "text": {
-                      "text": "filesystem",
-                      "font-weight": "400",
-                      "font-size": "small"
-                    }
-                  }
-                }
-              ],
-              "attrs": {}
-            },
-            {
               "type": "tm.Actor",
               "size": {
                 "width": 160,
@@ -651,7 +594,6 @@
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "diagramType": "STRIDE",
         "id": 1,
-        "$$hashKey": "object:22",
         "diagramJson": {
           "cells": [
             {
