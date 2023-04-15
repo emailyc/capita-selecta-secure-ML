@@ -744,8 +744,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.27991988188071115,
-                    "offset": 31.949528689625737
+                    "distance": 0.4421346529415618,
+                    "offset": 40.43788596162674
                   },
                   "attrs": {
                     "text": {
@@ -792,58 +792,6 @@
                   "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
-            },
-            {
-              "type": "tm.Boundary",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
-              "smooth": true,
-              "source": {
-                "x": 30,
-                "y": 20
-              },
-              "target": {
-                "x": 56,
-                "y": 187
-              },
-              "vertices": [
-                {
-                  "x": 267,
-                  "y": 53
-                },
-                {
-                  "x": 289,
-                  "y": 153
-                },
-                {
-                  "x": 255,
-                  "y": 183
-                },
-                {
-                  "x": 210,
-                  "y": 190
-                }
-              ],
-              "id": "6808bed9-eb7d-4c04-841d-b6350f605158",
-              "z": 8,
-              "labels": [
-                {
-                  "position": {
-                    "distance": 0.8401183685698612,
-                    "offset": 19.08199783560339
-                  },
-                  "attrs": {
-                    "text": {
-                      "text": "camera sensor",
-                      "font-weight": "400",
-                      "font-size": "small"
-                    }
-                  }
-                }
-              ],
-              "attrs": {}
             },
             {
               "type": "tm.Process",
@@ -1150,50 +1098,6 @@
               }
             },
             {
-              "type": "tm.Boundary",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
-              "smooth": true,
-              "source": {
-                "x": 57,
-                "y": 259
-              },
-              "target": {
-                "x": 72,
-                "y": 449
-              },
-              "vertices": [
-                {
-                  "x": 296,
-                  "y": 312
-                },
-                {
-                  "x": 302,
-                  "y": 408
-                }
-              ],
-              "id": "b44b057e-b060-49de-8e51-24e483a3812d",
-              "z": 18,
-              "labels": [
-                {
-                  "position": {
-                    "distance": 0.9137794374742282,
-                    "offset": 14.137179405940893
-                  },
-                  "attrs": {
-                    "text": {
-                      "text": "device user",
-                      "font-weight": "400",
-                      "font-size": "small"
-                    }
-                  }
-                }
-              ],
-              "attrs": {}
-            },
-            {
               "type": "tm.Store",
               "size": {
                 "width": 160,
@@ -1218,35 +1122,6 @@
                   "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
-            },
-            {
-              "type": "tm.Boundary",
-              "size": {
-                "width": 10,
-                "height": 10
-              },
-              "smooth": true,
-              "source": {
-                "x": 690,
-                "y": 475
-              },
-              "target": {
-                "x": 462,
-                "y": 482
-              },
-              "vertices": [
-                {
-                  "x": 647,
-                  "y": 370
-                },
-                {
-                  "x": 488,
-                  "y": 366
-                }
-              ],
-              "id": "8d7ac534-dc5f-43b0-bbd8-fe8871c9299d",
-              "z": 21,
-              "attrs": {}
             },
             {
               "type": "tm.Flow",
