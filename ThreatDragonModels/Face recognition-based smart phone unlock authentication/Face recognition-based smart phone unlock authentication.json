@@ -615,7 +615,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "face\nauthentication\nsystem"
+                  "text": "Remote face\nauthentication\nsystem"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
