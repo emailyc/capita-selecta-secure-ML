@@ -480,7 +480,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "device user",
+                      "text": "Identity enrolee",
                       "font-weight": "400",
                       "font-size": "small"
                     }
